@@ -8,16 +8,13 @@ public class InstantiateObj : MonoBehaviour
 
     private void Start()
     {
-        Debug.Log("Start Function activated");
         StartCoroutine("InstatiateTimer");
     }
 
     IEnumerator InstatiateTimer()
     {
-        Debug.Log("Coroutine activated");
         while (true)
         {
-            Debug.Log("Coroutine repeated");
             yield return new WaitForSeconds(delayAmount);
             Instantiate(instantiatedObj, transform.position, transform.rotation);
         }
