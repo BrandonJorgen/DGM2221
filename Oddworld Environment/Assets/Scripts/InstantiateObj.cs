@@ -8,10 +8,10 @@ public class InstantiateObj : MonoBehaviour
 
     private void Start()
     {
-        StartCoroutine("InstatiateTimer");
+        StartCoroutine("InstantiateTimer");
     }
 
-    IEnumerator InstatiateTimer()
+    IEnumerator InstantiateTimer()
     {
         while (true)
         {
