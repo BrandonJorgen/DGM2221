@@ -401,15 +401,15 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 141.148
       objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: ba2400237adc68a419fb91a7eb76d465, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2300002, guid: ba2400237adc68a419fb91a7eb76d465, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: a29b2046d405d3c468f1b05a5a2f1eb0, type: 2}
     - target: {fileID: 2300002, guid: ba2400237adc68a419fb91a7eb76d465, type: 3}
-      propertyPath: m_CastShadows
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2300000, guid: ba2400237adc68a419fb91a7eb76d465, type: 3}
       propertyPath: m_CastShadows
       value: 0
       objectReference: {fileID: 0}
@@ -5201,15 +5201,15 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 141.148
       objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: ba2400237adc68a419fb91a7eb76d465, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2300002, guid: ba2400237adc68a419fb91a7eb76d465, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: a29b2046d405d3c468f1b05a5a2f1eb0, type: 2}
     - target: {fileID: 2300002, guid: ba2400237adc68a419fb91a7eb76d465, type: 3}
-      propertyPath: m_CastShadows
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2300000, guid: ba2400237adc68a419fb91a7eb76d465, type: 3}
       propertyPath: m_CastShadows
       value: 0
       objectReference: {fileID: 0}
@@ -6002,8 +6002,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1233539829}
   m_LocalRotation: {x: 0.47101796, y: 0.5273918, z: -0.5273918, w: 0.47101796}
-  m_LocalPosition: {x: -20.35, y: -41.96, z: -42.41}
-  m_LocalScale: {x: 1.2683, y: 6.3603063, z: 1.2683}
+  m_LocalPosition: {x: -17.2, y: -41.96, z: -42.7}
+  m_LocalScale: {x: 1.2683, y: 7.477176, z: 1.2683}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 67
