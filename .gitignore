@@ -4,6 +4,10 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+/HoudiniFiles
+/HoudiniEngine
+/Plugins
+/HEU
 
 # Visual Studio cache directory
 .vs/
