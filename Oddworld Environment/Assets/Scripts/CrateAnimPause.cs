@@ -4,17 +4,30 @@ using UnityEngine;
 
 public class CrateAnimPause : MonoBehaviour
 {
-    private Animator animController;
+    public float speed = 1f;
+    private bool moving = true;
     
     private void Start()
     {
-        animController = GetComponent<Animator>();
+        StartCoroutine(CrateMovement());
+        transform.Translate(Vector3.forward * speed * Time.deltaTime);
+        Debug.Log("im moving :)");
     }
 
-    IEnumerator PauseAnimTimer()
+    IEnumerator CrateMovement()
     {
-        animController.speed = 0f;
-        yield return new WaitForSeconds(.33f);
-        animController.speed = 1f;
+        yield return new WaitForSeconds(1f);
+        moving = false;
+        yield return new WaitForSeconds(0.5f);
+        moving = true;
+    }
+
+    private void Update()
+    {
+        if (moving)
+        {
+            transform.Translate(Vector3.forward * speed * Time.deltaTime);
+            StartCoroutine(CrateMovement());
+        }
     }
 }
