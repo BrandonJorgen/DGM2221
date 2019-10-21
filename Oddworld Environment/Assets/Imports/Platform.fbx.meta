@@ -31,7 +31,12 @@ ModelImporter:
     4300004: SecondaryDisk
     4300006: RailSupports
     4300008: PlatformSupports
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlatformMat
+    second: {fileID: 2100000, guid: a29b2046d405d3c468f1b05a5a2f1eb0, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
