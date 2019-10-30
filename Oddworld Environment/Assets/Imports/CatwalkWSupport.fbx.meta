@@ -6,21 +6,19 @@ ModelImporter:
     100000: Catwalk
     100002: Catwalk_support1
     100004: //RootNode
+    100006: Combination
     400000: Catwalk
     400002: Catwalk_support1
     400004: //RootNode
-    2100000: Metal_Strip
-    2100002: default_material
+    400006: Combination
+    2100000: default_material
+    2100002: Metal_Strip
     2100004: Side_Striping
     2100006: Flooring
     2100008: LED_Mat
-    2100010: No Name
-    2300000: Catwalk
-    2300002: Catwalk_support1
-    3300000: Catwalk
-    3300002: Catwalk_support1
-    4300000: Catwalk
-    4300002: Catwalk_support1
+    2300000: Combination
+    3300000: Combination
+    4300000: Combination
     2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
