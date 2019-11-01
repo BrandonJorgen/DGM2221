@@ -36,13 +36,13 @@
         "1001": {
             "shader": "Main shader"
         },
-        "1002": {
-            "shader": "Main shader"
-        },
         "1003": {
             "shader": "Main shader"
         },
         "1004": {
+            "shader": "Main shader"
+        },
+        "1005": {
             "shader": "Main shader"
         }
     }

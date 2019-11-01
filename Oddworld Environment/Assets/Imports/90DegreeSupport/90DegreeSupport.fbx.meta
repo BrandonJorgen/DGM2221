@@ -9,7 +9,12 @@ ModelImporter:
     2300000: //RootNode
     3300000: //RootNode
     4300000: Crane_arm1_uvlayout1_uvlayout1_0
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DarkGrey
+    second: {fileID: 2100000, guid: a154305fefcc3614cab948a3569f3b53, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

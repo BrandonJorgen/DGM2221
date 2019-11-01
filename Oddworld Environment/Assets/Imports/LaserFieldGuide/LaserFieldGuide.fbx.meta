@@ -8,81 +8,80 @@ ModelImporter:
     100004: EndPillar2
     100006: EndPillar3
     100008: //RootNode
-    100010: MainFrame
-    100012: MainFrame 1
-    100014: MainFrame 2
-    100016: MainFrame 3
-    100018: TopCylinder
-    100020: TopCylinder 1
-    100022: TopCylinder 2
-    100024: TopCylinder 3
-    100026: TopTubes1
-    100028: TopTubes2
-    100030: TopTubes3
-    100032: TopTubes4
+    100010: LightSupport1
+    100012: LightSupport2
+    100014: LightSupport3
+    100016: LightSupport4
+    100018: MainFrame
+    100020: MainFrame 1
+    100022: MainFrame 2
+    100024: MainFrame 3
+    100026: TopCylinder
+    100028: TopCylinder 1
+    100030: TopCylinder 2
+    100032: TopCylinder 3
     100034: Wires
     400000: EndPillar
     400002: EndPillar1
     400004: EndPillar2
     400006: EndPillar3
     400008: //RootNode
-    400010: MainFrame
-    400012: MainFrame 1
-    400014: MainFrame 2
-    400016: MainFrame 3
-    400018: TopCylinder
-    400020: TopCylinder 1
-    400022: TopCylinder 2
-    400024: TopCylinder 3
-    400026: TopTubes1
-    400028: TopTubes2
-    400030: TopTubes3
-    400032: TopTubes4
+    400010: LightSupport1
+    400012: LightSupport2
+    400014: LightSupport3
+    400016: LightSupport4
+    400018: MainFrame
+    400020: MainFrame 1
+    400022: MainFrame 2
+    400024: MainFrame 3
+    400026: TopCylinder
+    400028: TopCylinder 1
+    400030: TopCylinder 2
+    400032: TopCylinder 3
     400034: Wires
     2100000: WiresMat
     2100002: TopLightMat
     2100004: MetalMat1
     2100006: MiddlePoleMat
-    2100008: lambert1
-    2300000: MainFrame
-    2300002: MainFrame 1
-    2300004: MainFrame 2
-    2300006: MainFrame 3
-    2300008: TopCylinder
-    2300010: TopCylinder 1
-    2300012: TopCylinder 2
-    2300014: TopCylinder 3
-    2300016: TopTubes1
-    2300018: TopTubes2
-    2300020: TopTubes3
-    2300022: TopTubes4
+    2300000: LightSupport1
+    2300002: LightSupport2
+    2300004: LightSupport3
+    2300006: LightSupport4
+    2300008: MainFrame
+    2300010: MainFrame 1
+    2300012: MainFrame 2
+    2300014: MainFrame 3
+    2300016: TopCylinder
+    2300018: TopCylinder 1
+    2300020: TopCylinder 2
+    2300022: TopCylinder 3
     2300024: Wires
-    3300000: MainFrame
-    3300002: MainFrame 1
-    3300004: MainFrame 2
-    3300006: MainFrame 3
-    3300008: TopCylinder
-    3300010: TopCylinder 1
-    3300012: TopCylinder 2
-    3300014: TopCylinder 3
-    3300016: TopTubes1
-    3300018: TopTubes2
-    3300020: TopTubes3
-    3300022: TopTubes4
+    3300000: LightSupport1
+    3300002: LightSupport2
+    3300004: LightSupport3
+    3300006: LightSupport4
+    3300008: MainFrame
+    3300010: MainFrame 1
+    3300012: MainFrame 2
+    3300014: MainFrame 3
+    3300016: TopCylinder
+    3300018: TopCylinder 1
+    3300020: TopCylinder 2
+    3300022: TopCylinder 3
     3300024: Wires
     4300000: Wires
     4300002: TopCylinder
     4300004: MainFrame
-    4300006: TopTubes2
+    4300006: LightSupport1
     4300008: TopCylinder
     4300010: MainFrame
-    4300012: TopTubes1
+    4300012: LightSupport4
     4300014: TopCylinder
     4300016: MainFrame
-    4300018: TopTubes4
+    4300018: LightSupport3
     4300020: TopCylinder
     4300022: MainFrame
-    4300024: TopTubes3
+    4300024: LightSupport2
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -104,11 +103,6 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: WiresMat
     second: {fileID: 2100000, guid: a0fb8f3cd31b87e4fb7092e0604d66f2, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: lambert1
-    second: {fileID: 2100000, guid: 3085898f118216746afef9a163c83be5, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

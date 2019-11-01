@@ -15,7 +15,7 @@ ModelImporter:
     400006: RailingDisk
     400008: RailSupports
     400010: SecondaryDisk
-    2100000: lambert1
+    2100000: PlatformMat
     2300000: MainDisk
     2300002: PlatformSupports
     2300004: RailingDisk
@@ -35,7 +35,7 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: lambert1
+      name: PlatformMat
     second: {fileID: 2100000, guid: 95a1a39ca8ef39e4caee473bf1e26221, type: 2}
   materials:
     importMaterials: 1
@@ -73,8 +73,8 @@ ModelImporter:
     useSRGBMaterialColor: 1
     importVisibility: 1
     importBlendShapes: 1
-    importCameras: 0
-    importLights: 0
+    importCameras: 1
+    importLights: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
