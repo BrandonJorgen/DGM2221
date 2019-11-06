@@ -4,12 +4,20 @@ ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
+    100002: Crate
+    100004: Logo
     400000: //RootNode
+    400002: Crate
+    400004: Logo
     2100000: Crate_Bottom_Mat
     2100002: Crate_Top_Mat
-    2300000: //RootNode
-    3300000: //RootNode
+    2100004: LogoMat
+    2300000: Crate
+    2300002: Logo
+    3300000: Crate
+    3300002: Logo
     4300000: Crate
+    4300002: Logo
   externalObjects: {}
   materials:
     importMaterials: 1
