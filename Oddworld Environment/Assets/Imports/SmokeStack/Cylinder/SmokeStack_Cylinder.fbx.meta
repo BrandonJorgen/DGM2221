@@ -5,16 +5,16 @@ ModelImporter:
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: DarkGrey
+    2100000: MidgroundMat
     2300000: //RootNode
     3300000: //RootNode
-    4300000: StackCylinder
+    4300000: SmokeStackCylinder
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: DarkGrey
-    second: {fileID: 2100000, guid: e249aa5fd95992948bc0e859752ff3fb, type: 2}
+      name: MidgroundMat
+    second: {fileID: 2100000, guid: b12059a0cd1cab146a0530327763e97d, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

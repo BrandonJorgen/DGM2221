@@ -5,16 +5,11 @@ ModelImporter:
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: DarkGrey
+    2100000: MidgroundMat
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Brandon_pipe_straight4_uvlayout1_uvlayout1_0
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: DarkGrey
-    second: {fileID: 2100000, guid: 99be197898ccf55489db7003cc35bb51, type: 2}
+    4300000: Pipe_Straight02
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
