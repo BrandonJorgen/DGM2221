@@ -3,56 +3,13 @@ guid: 947a9757b6adf1d48a135c61f9715df2
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: MainCylinder
-    100002: MiscGeo
-    100004: MiscGeo1
-    100006: MiscGeo2
-    100008: MiscGeo3
-    100010: MiscGeo4
-    100012: MiscGeo5
-    100014: //RootNode
-    400000: MainCylinder
-    400002: MiscGeo
-    400004: MiscGeo1
-    400006: MiscGeo2
-    400008: MiscGeo3
-    400010: MiscGeo4
-    400012: MiscGeo5
-    400014: //RootNode
-    2100000: MiscStackMat
-    2100002: TubeMat
-    2300000: MainCylinder
-    2300002: MiscGeo
-    2300004: MiscGeo1
-    2300006: MiscGeo2
-    2300008: MiscGeo3
-    2300010: MiscGeo4
-    2300012: MiscGeo5
-    3300000: MainCylinder
-    3300002: MiscGeo
-    3300004: MiscGeo1
-    3300006: MiscGeo2
-    3300008: MiscGeo3
-    3300010: MiscGeo4
-    3300012: MiscGeo5
-    4300000: MiscGeo3
-    4300002: MiscGeo2
-    4300004: MiscGeo1
-    4300006: MiscGeo
-    4300008: MainCylinder
-    4300010: MiscGeo4
-    4300012: MiscGeo5
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: MiscStackMat
-    second: {fileID: 2100000, guid: b398fd4392047124cb9a5a67dd020c8e, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: TubeMat
-    second: {fileID: 2100000, guid: 0be1a2b7ced1c1c4d8907e8630efe772, type: 2}
+    100000: //RootNode
+    400000: //RootNode
+    2100000: BackgroundMat
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: MiscSmokeStack1
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
@@ -83,7 +40,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 100
+    globalScale: 1
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1

@@ -5,16 +5,11 @@ ModelImporter:
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: Gray
+    2100000: BackgroundMat
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Conveyor_belt1_uvlayout1_uvlayout1_2
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Gray
-    second: {fileID: 2100000, guid: 6235ab7a56a7e3242a1aa959e7cf2744, type: 2}
+    4300000: Conveyor3
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0

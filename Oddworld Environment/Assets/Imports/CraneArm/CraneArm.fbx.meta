@@ -3,20 +3,13 @@ guid: 112478ff305170c4191f1917f06fd895
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: Crane_arm1_uvlayout1_uvlayout1_0
-    100002: //RootNode
-    400000: Crane_arm1_uvlayout1_uvlayout1_0
-    400002: //RootNode
-    2100000: DarkGrey
-    2300000: Crane_arm1_uvlayout1_uvlayout1_0
-    3300000: Crane_arm1_uvlayout1_uvlayout1_0
-    4300000: Crane_arm1_uvlayout1_uvlayout1_0
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: DarkGrey
-    second: {fileID: 2100000, guid: a994dbef5a74d7f4ba1ba5bfc39e997d, type: 2}
+    100000: //RootNode
+    400000: //RootNode
+    2100000: BackgroundMat
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: CraneArm01
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0

@@ -3,58 +3,12 @@ guid: 3384fd701af201d47b6dea96ee3254af
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: Arches
-    100002: CurvedWall
-    100004: Logo
-    100006: LogoSupports
-    100008: //RootNode
-    100010: MainBuilding
-    100012: Railing
-    100014: SupportCylinder1
-    100016: SupportCylinder2
-    400000: Arches
-    400002: CurvedWall
-    400004: Logo
-    400006: LogoSupports
-    400008: MainBuilding
-    400010: //RootNode
-    400012: Railing
-    400014: SupportCylinder1
-    400016: SupportCylinder2
-    2100000: lambert1
-    2100002: LogoMat
-    2100004: MainExteriorMat
-    2100006: OfficeLightsMat
-    2100008: TopMatDark
-    2100010: ArchMat
-    2100012: TopMatLight
-    2100014: InteriorMat
-    2100016: MetalWallMat
-    2100018: RailingMat
-    2300000: Arches
-    2300002: CurvedWall
-    2300004: Logo
-    2300006: LogoSupports
-    2300008: MainBuilding
-    2300010: Railing
-    2300012: SupportCylinder1
-    2300014: SupportCylinder2
-    3300000: Arches
-    3300002: CurvedWall
-    3300004: Logo
-    3300006: LogoSupports
-    3300008: MainBuilding
-    3300010: Railing
-    3300012: SupportCylinder1
-    3300014: SupportCylinder2
-    4300000: Arches
-    4300002: Logo
-    4300004: MainBuilding
-    4300006: CurvedWall
-    4300008: SupportCylinder1
-    4300010: SupportCylinder2
-    4300012: Railing
-    4300014: LogoSupports
+    100000: //RootNode
+    400000: //RootNode
+    2100000: BackgroundMat
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: MainBuilding01
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -86,7 +40,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 250
+    globalScale: 1
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
