@@ -3,18 +3,20 @@ guid: e1ed6f11f5a73e145b33493e64eba666
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: //RootNode
-    400000: //RootNode
+    100000: LaserGrid
+    100002: //RootNode
+    100004: Metal
+    400000: LaserGrid
+    400002: //RootNode
+    400004: Metal
     2100000: ForegroundMat
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: LaserFrame
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: ForegroundMat
-    second: {fileID: 2100000, guid: b25179082b7d60a4aaa9c006ec6cb0eb, type: 2}
+    2300000: LaserGrid
+    2300002: Metal
+    3300000: LaserGrid
+    3300002: Metal
+    4300000: Metal
+    4300002: LaserGrid
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
