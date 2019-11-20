@@ -3,134 +3,13 @@ guid: 209cada6f70f7ea4e8d9e9cae33d24ed
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: HandRail
-    100002: HandRail1
-    100004: pasted__PipeCap1
-    100006: pasted__PipeCap2
-    100008: pasted__PipeCap3
-    100010: pasted__PipeCap4
-    100012: pasted__PipeCapeV2
-    100014: pasted__PipeCapeV3
-    100016: Platform
-    100018: //RootNode
-    100020: Tube
-    100022: Tube1
-    100024: Tube2
-    100026: Tube3
-    100028: Tube4
-    100030: Tube5
-    100032: Tube6
-    100034: TubeSupport
-    100036: TubeSupport1
-    100038: Walkway
-    400000: HandRail
-    400002: HandRail1
-    400004: pasted__PipeCap1
-    400006: pasted__PipeCap2
-    400008: pasted__PipeCap3
-    400010: pasted__PipeCap4
-    400012: pasted__PipeCapeV2
-    400014: pasted__PipeCapeV3
-    400016: Platform
-    400018: //RootNode
-    400020: Tube
-    400022: Tube1
-    400024: Tube2
-    400026: Tube3
-    400028: Tube4
-    400030: Tube5
-    400032: Tube6
-    400034: TubeSupport
-    400036: TubeSupport1
-    400038: Walkway
-    2100000: TubeMat
-    2100002: pasted__TubeCapMat
-    2100004: pasted__BlueLightMat
-    2100006: WalkwayMat
-    2100008: MetalMat
-    2300000: HandRail
-    2300002: HandRail1
-    2300004: pasted__PipeCap1
-    2300006: pasted__PipeCap2
-    2300008: pasted__PipeCap3
-    2300010: pasted__PipeCap4
-    2300012: pasted__PipeCapeV2
-    2300014: pasted__PipeCapeV3
-    2300016: Platform
-    2300018: Tube
-    2300020: Tube1
-    2300022: Tube2
-    2300024: Tube3
-    2300026: Tube4
-    2300028: Tube5
-    2300030: Tube6
-    2300032: TubeSupport
-    2300034: TubeSupport1
-    2300036: Walkway
-    3300000: HandRail
-    3300002: HandRail1
-    3300004: pasted__PipeCap1
-    3300006: pasted__PipeCap2
-    3300008: pasted__PipeCap3
-    3300010: pasted__PipeCap4
-    3300012: pasted__PipeCapeV2
-    3300014: pasted__PipeCapeV3
-    3300016: Platform
-    3300018: Tube
-    3300020: Tube1
-    3300022: Tube2
-    3300024: Tube3
-    3300026: Tube4
-    3300028: Tube5
-    3300030: Tube6
-    3300032: TubeSupport
-    3300034: TubeSupport1
-    3300036: Walkway
-    4300000: Tube6
-    4300002: Tube5
-    4300004: Tube4
-    4300006: Tube3
-    4300008: Tube2
-    4300010: Tube1
-    4300012: pasted__PipeCap1
-    4300014: pasted__PipeCapeV2
-    4300016: pasted__PipeCap2
-    4300018: pasted__PipeCap3
-    4300020: pasted__PipeCap4
-    4300022: pasted__PipeCapeV3
-    4300024: Tube
-    4300026: Walkway
-    4300028: Platform
-    4300030: HandRail
-    4300032: HandRail1
-    4300034: TubeSupport
-    4300036: TubeSupport1
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: MetalMat
-    second: {fileID: 2100000, guid: 800b0de800919b54c936d967396f0e63, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: TubeMat
-    second: {fileID: 2100000, guid: 0ae2bfaa29f48ea479a05c52aa9b3c65, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: WalkwayMat
-    second: {fileID: 2100000, guid: a60d094873ec3f349b31723393c090f0, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: pasted__BlueLightMat
-    second: {fileID: 2100000, guid: 825286783f8995a449c3bbdaf94f59b3, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: pasted__TubeCapMat
-    second: {fileID: 2100000, guid: f67ab686b3e47ef4a9751a937db543fa, type: 2}
+    100000: //RootNode
+    400000: //RootNode
+    2100000: MidgroundMat
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: ProcessingBuilding02
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
@@ -161,7 +40,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 250
+    globalScale: 1
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1

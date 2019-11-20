@@ -3,40 +3,18 @@ guid: 0ab6d8612c0928742b9a0ab8168eb510
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: MainDisk
-    100002: //RootNode
-    100004: PlatformSupports
-    100006: RailingDisk
-    100008: RailSupports
-    100010: SecondaryDisk
-    400000: MainDisk
-    400002: //RootNode
-    400004: PlatformSupports
-    400006: RailingDisk
-    400008: RailSupports
-    400010: SecondaryDisk
-    2100000: PlatformMat
-    2300000: MainDisk
-    2300002: PlatformSupports
-    2300004: RailingDisk
-    2300006: RailSupports
-    2300008: SecondaryDisk
-    3300000: MainDisk
-    3300002: PlatformSupports
-    3300004: RailingDisk
-    3300006: RailSupports
-    3300008: SecondaryDisk
-    4300000: MainDisk
-    4300002: RailingDisk
-    4300004: SecondaryDisk
-    4300006: RailSupports
-    4300008: PlatformSupports
+    100000: //RootNode
+    400000: //RootNode
+    2100000: MidgroundMat
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Platform1
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: PlatformMat
-    second: {fileID: 2100000, guid: 95a1a39ca8ef39e4caee473bf1e26221, type: 2}
+      name: MidgroundMat
+    second: {fileID: 2100000, guid: b12059a0cd1cab146a0530327763e97d, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -67,7 +45,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 100
+    globalScale: 1
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
