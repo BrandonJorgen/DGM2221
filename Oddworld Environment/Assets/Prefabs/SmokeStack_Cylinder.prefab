@@ -123,10 +123,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1388834844}
     m_Modifications:
-    - target: {fileID: 100000, guid: d0e8209592d048b4787c4805a19e27e2, type: 3}
-      propertyPath: m_Name
-      value: SmokeStack_MiscGeo
-      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d0e8209592d048b4787c4805a19e27e2, type: 3}
       propertyPath: m_LocalPosition.x
       value: -1.982947
@@ -171,6 +167,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d0e8209592d048b4787c4805a19e27e2, type: 3}
+      propertyPath: m_Name
+      value: SmokeStack_MiscGeo
+      objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: d0e8209592d048b4787c4805a19e27e2, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -190,10 +190,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1388834844}
     m_Modifications:
-    - target: {fileID: 100000, guid: fcc4ff3b1ed5dec4ba6f20cb585924c2, type: 3}
-      propertyPath: m_Name
-      value: SmokeStack_TopRing
-      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: fcc4ff3b1ed5dec4ba6f20cb585924c2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -237,6 +233,10 @@ PrefabInstance:
     - target: {fileID: 400000, guid: fcc4ff3b1ed5dec4ba6f20cb585924c2, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: fcc4ff3b1ed5dec4ba6f20cb585924c2, type: 3}
+      propertyPath: m_Name
+      value: SmokeStack_TopRing
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: fcc4ff3b1ed5dec4ba6f20cb585924c2, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -431,10 +431,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1388834844}
     m_Modifications:
-    - target: {fileID: 100000, guid: fcc4ff3b1ed5dec4ba6f20cb585924c2, type: 3}
-      propertyPath: m_Name
-      value: SmokeStack_TopRing (1)
-      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: fcc4ff3b1ed5dec4ba6f20cb585924c2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -478,6 +474,10 @@ PrefabInstance:
     - target: {fileID: 400000, guid: fcc4ff3b1ed5dec4ba6f20cb585924c2, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: fcc4ff3b1ed5dec4ba6f20cb585924c2, type: 3}
+      propertyPath: m_Name
+      value: SmokeStack_TopRing (1)
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: fcc4ff3b1ed5dec4ba6f20cb585924c2, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -550,6 +550,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 30741688b84a2f549be857d081798755, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b12059a0cd1cab146a0530327763e97d, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 30741688b84a2f549be857d081798755, type: 3}
 --- !u!4 &1737897977 stripped
@@ -692,6 +696,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 30741688b84a2f549be857d081798755, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b12059a0cd1cab146a0530327763e97d, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 30741688b84a2f549be857d081798755, type: 3}
 --- !u!4 &8574390793320474062 stripped
