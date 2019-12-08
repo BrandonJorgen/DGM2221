@@ -57,11 +57,11 @@ MonoBehaviour:
     value: 0
   mask:
     overrideState: 1
-    value: {fileID: 0}
+    value: {fileID: 2800000, guid: 208c45d2c4c89bf4e903c96e286d7691, type: 3}
     defaultState: 1
   opacity:
     overrideState: 1
-    value: 1
+    value: 0.353
 --- !u!114 &114238581829589308
 MonoBehaviour:
   m_ObjectHideFlags: 3
