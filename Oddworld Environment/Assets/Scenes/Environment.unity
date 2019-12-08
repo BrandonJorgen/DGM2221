@@ -33958,8 +33958,8 @@ Light:
   serializedVersion: 8
   m_Type: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 6
-  m_Range: 12.37985
+  m_Intensity: 5
+  m_Range: 11.61219
   m_SpotAngle: 67.28624
   m_CookieSize: 10
   m_Shadows:
@@ -141013,7 +141013,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 0
       minColor: {r: 1, g: 1, b: 1, a: 1}
-      maxColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 0.5647059}
+      maxColor: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
