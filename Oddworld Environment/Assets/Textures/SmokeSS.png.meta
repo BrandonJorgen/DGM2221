@@ -14,6 +14,10 @@ TextureImporter:
     21300018: SmokeSS_9
     21300020: SmokeSS_10
     21300022: SmokeSS_11
+    21300024: SmokeSS_12
+    21300026: SmokeSS_13
+    21300028: SmokeSS_14
+    21300030: SmokeSS_15
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -99,18 +103,18 @@ TextureImporter:
       name: SmokeSS_0
       rect:
         serializedVersion: 2
-        x: 118
-        y: 822
-        width: 94
-        height: 100
+        x: 106
+        y: 803
+        width: 162
+        height: 185
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fa1d908c81b7f554f9ef76da9e0fa4a4
+      spriteID: 6f40eb30ebb7a5c40ae2bc0d26bd2da1
       vertices: []
       indices: 
       edges: []
@@ -119,18 +123,18 @@ TextureImporter:
       name: SmokeSS_1
       rect:
         serializedVersion: 2
-        x: 349
-        y: 826
-        width: 94
-        height: 100
+        x: 337
+        y: 811
+        width: 110
+        height: 190
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0aaed79a206899649819fc491784a942
+      spriteID: 84dd7f35e9ebe0f48b6ffd2f5623838b
       vertices: []
       indices: 
       edges: []
@@ -139,18 +143,18 @@ TextureImporter:
       name: SmokeSS_2
       rect:
         serializedVersion: 2
-        x: 566
-        y: 828
-        width: 94
-        height: 100
+        x: 531
+        y: 805
+        width: 194
+        height: 202
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ddab4ef8e3aa11428770c986f2b3e25
+      spriteID: c6f366492a7940240bd2c9e9c12943fd
       vertices: []
       indices: 
       edges: []
@@ -159,18 +163,18 @@ TextureImporter:
       name: SmokeSS_3
       rect:
         serializedVersion: 2
-        x: 794
-        y: 826
-        width: 94
-        height: 100
+        x: 744
+        y: 828
+        width: 162
+        height: 156
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 96dec88726d4f9f43bd449322358d103
+      spriteID: 5f6b3e696404dcb4092122eea10b3b10
       vertices: []
       indices: 
       edges: []
@@ -179,18 +183,18 @@ TextureImporter:
       name: SmokeSS_4
       rect:
         serializedVersion: 2
-        x: 122
-        y: 568
-        width: 70
-        height: 92
+        x: 88
+        y: 510
+        width: 179
+        height: 221
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d0ad3018fb95f6419a35ea29806d4a8
+      spriteID: 7b24832ec44bd874390020e5f9e97371
       vertices: []
       indices: 
       edges: []
@@ -199,18 +203,18 @@ TextureImporter:
       name: SmokeSS_5
       rect:
         serializedVersion: 2
-        x: 339
-        y: 563
-        width: 70
-        height: 93
+        x: 297
+        y: 568
+        width: 191
+        height: 144
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a13ce7f70362954f9cb703b4a281329
+      spriteID: dc5f7ec3bbca542408242dba93688875
       vertices: []
       indices: 
       edges: []
@@ -219,18 +223,18 @@ TextureImporter:
       name: SmokeSS_6
       rect:
         serializedVersion: 2
-        x: 561
-        y: 565
-        width: 88
-        height: 88
+        x: 528
+        y: 569
+        width: 161
+        height: 126
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b06ebe8fa39728f4588b38e59f4a0fbb
+      spriteID: f5835fec0f59625448cc0c52d04cb3a6
       vertices: []
       indices: 
       edges: []
@@ -239,18 +243,18 @@ TextureImporter:
       name: SmokeSS_7
       rect:
         serializedVersion: 2
-        x: 813
-        y: 561
-        width: 88
-        height: 88
+        x: 764
+        y: 540
+        width: 122
+        height: 173
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4ead7398af0569e48b24b3bcbe4366a3
+      spriteID: e2a9e712bf1fcac4f8c28a76b94c81c5
       vertices: []
       indices: 
       edges: []
@@ -259,18 +263,18 @@ TextureImporter:
       name: SmokeSS_8
       rect:
         serializedVersion: 2
-        x: 107
-        y: 285
-        width: 80
-        height: 67
+        x: 118
+        y: 280
+        width: 114
+        height: 164
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: da0a7856838ace143ae0478facbc3085
+      spriteID: c2076c3988ecd5b43b54a6f360fcf2c3
       vertices: []
       indices: 
       edges: []
@@ -279,18 +283,18 @@ TextureImporter:
       name: SmokeSS_9
       rect:
         serializedVersion: 2
-        x: 329
-        y: 293
-        width: 80
-        height: 67
+        x: 303
+        y: 282
+        width: 169
+        height: 158
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 14c089053894d9f47a2846db06e52eca
+      spriteID: 42dba723ab8da1444a57d1b98734c79d
       vertices: []
       indices: 
       edges: []
@@ -299,18 +303,18 @@ TextureImporter:
       name: SmokeSS_10
       rect:
         serializedVersion: 2
-        x: 556
-        y: 306
-        width: 80
-        height: 59
+        x: 537
+        y: 280
+        width: 163
+        height: 192
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cb50851dd279c23458c12cd9c1d67e60
+      spriteID: d8295ba394bff8a47aa11eea91904d4e
       vertices: []
       indices: 
       edges: []
@@ -319,18 +323,98 @@ TextureImporter:
       name: SmokeSS_11
       rect:
         serializedVersion: 2
-        x: 805
-        y: 312
-        width: 80
-        height: 61
+        x: 764
+        y: 282
+        width: 140
+        height: 197
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5d35e2cec1d989d44abe29933d563d15
+      spriteID: e07f1cbe9cf888e42a4e2c2a3a9b8415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeSS_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 21
+        width: 163
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26c645dfa835914da97ea922d1111df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeSS_13
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 36
+        width: 169
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b3be76660881b49bede8940682ea40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeSS_14
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 32
+        width: 149
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ba2f71220400a4abad323c69ca835e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeSS_15
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 16
+        width: 151
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c89dcb9c2f9f34f889b2ed317fdd9b
       vertices: []
       indices: 
       edges: []
